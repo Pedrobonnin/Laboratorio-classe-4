@@ -1,0 +1,69 @@
+[
+    {
+        
+        "id":1,
+        "nombre":"Pedro",
+        "edad": "20",
+        "país": "Argentina",
+        "correo": "pedrobonnin1@gmail.com",
+        "celular": "3446-234354"
+    },
+
+    {
+        "id":2,
+        "nombre":"omar",
+        "edad": "23",
+        "país" : "España",
+        "correo": "omar1@gmail.com",
+        "celular": "3448-2323454"   
+    },
+    
+    {
+        "id":3,
+        "nombre":"Sergio",
+        "edad": "41",
+        "país" : "Argentina",
+        "correo": "Sergio41@gmail.com",
+        "celular": "3446-2944254"  
+    },
+
+    {
+        "id":4,
+        "nombre":"Vanina",
+        "edad": "27",
+        "país" : "Uruguay",
+        "correo": "vanina271@gmail.com",
+        "celular": "3446-324935"   
+    },
+    
+    {
+        "id":5,
+        "nombre":"Paula",
+        "edad": "25",
+        "país" : "Argentina", 
+        "correo": "paula25@gmail.com",
+        "celular": "3442-3543354"
+    },
+
+    {
+        "id":4,
+        "nombre":"Cristian",
+        "edad": "29",
+        "país" : "Brasil",   
+        "correo": "cristian29@gmail.com",
+        "celular": "3446-234354"
+    },
+    
+    {
+        "id":5,
+        "nombre":"Mariano",
+        "edad": "28",
+        "país" : "Argentina", 
+        "correo": "Mariano281@gmail.com",
+        "celular": "3446-314354" 
+
+    }
+
+
+
+]
